@@ -1,4 +1,12 @@
-## Getting Started
+## Full stack Ticket Booking System Desktop Application 
+## Frontend : Java Swing 
+## Backend  : SQL
+## Connectivity : JDBC connectivity
+
+
+
+
+
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
